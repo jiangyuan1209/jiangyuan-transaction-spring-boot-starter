@@ -1,0 +1,61 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.kotlin
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+.idea
+.claude
+
+docker/mysql7_docker/data/
+docker/mariadb/data/
+docker/mysql8_docker/data/
+docker/redis/data/
+docker/xxx-job/logs/*
+docker/ES-7/data/
+docker/ES-7/plugins/
+docker/ES-8/data/
+docker/ES-8/plugins/
+docker/neo4j/data
+docker/neo4j/logs
+docker/prometheus/data
+
+/data/
+/xxl-job/
+
+docker/xxl-job/logs/xxl-job/xxl-job-admin.log
+
+docker/xxl-job/logs/xxl-job/
