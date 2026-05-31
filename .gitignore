@@ -59,3 +59,7 @@ docker/prometheus/data
 docker/xxl-job/logs/xxl-job/xxl-job-admin.log
 
 docker/xxl-job/logs/xxl-job/
+
+
+BLOG_POST.md
+KNOWLEDGE.md
